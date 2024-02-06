@@ -1,2 +1,15 @@
-# fatty_rockstar
-Make Fatty Rockstar Run
+# Fatty Rockstar is Too Fat
+## Game Objective
+Make fatty rockstar run and for his food. Pick up steak along the way as his reward. At the same time, you can make him climb a hill for more exercise.
+
+## Controls
+- Move Forward: W / Up Arrow
+- Turn and Move Left: A / Left Arrow
+- Turn and Move Right: D / Right Arrow
+- Turn Around and Move: S / Down Arrow
+- Jump: Spacebar
+
+## How to Play
+![](scene.png)
+- Follow the meat trail to give fatty rockstar his reward for running. Reach the end for a surprise.
+- For more exercise, take the trail on the right and climb the hill to reach the top of a quarry and discover a mini lake (don't fall in).
